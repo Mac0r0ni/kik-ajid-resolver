@@ -1,2 +1,2 @@
 # kik-ajid-resolver
-resolve kik ajids
+resolve kik ajids (not really tho)
